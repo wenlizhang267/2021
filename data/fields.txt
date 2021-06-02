@@ -1,0 +1,29 @@
+ABODILL Len: 1 ILLICIT DRUG ABUSE OR DEPENDENCE - PAST YEAR
+ABODMRJ Len: 1 MARIJUANA ABUSE OR DEPENDENCE - PAST YEAR
+ABODINH Len: 1 INHALANT ABUSE OR DEPENDENCE - PAST YEAR
+ABODHER Len: 1 HEROIN ABUSE OR DEPENDENCE - PAST YEAR
+ABODHAL Len: 1 HALLUCINOGEN ABUSE OR DEPENDENCE - PAST YEAR
+ABODCOC Len: 1 COCAINE ABUSE OR DEPENDENCE - PAST YEAR
+ABODALC Len: 1 ALCOHOL ABUSE OR DEPENDENCE - PAST YEAR
+
+ALCTRY Len: 3 AGE WHEN FIRST DRANK ALCOHOLIC BEVERAGE Freq Pct
+RANGE = 1 - 70....................................................................................................
+
+MJAGE Len: 3 AGE WHEN FIRST USED MARIJUANA/HASHISH Freq Pct
+RANGE = 1 - 77....................................................................................................
+
+COCAGE Len: 3 AGE WHEN FIRST USED COCAINE Freq Pct
+RANGE = 1 - 60....................................................................................................
+
+
+HERAGE Len: 3 AGE WHEN FIRST USED HEROIN Freq Pct
+RANGE = 1 - 55....................................................................................................
+
+HALLAGE Len: 3 AGE WHEN FIRST USED HALLUCINOGENS Freq Pct
+RANGE = 1 - 63....................................................................................................
+
+INHAGE Len: 3 AGE WHEN FIRST USED INHALANTS Freq Pct
+RANGE = 1 - 62....................................................................................................
+
+SUMAGE Len: 3 ANY ILLICIT DRUG - AGE FIRST USE Freq Pct
+RANGE = 1 - 77....................................................................................................
